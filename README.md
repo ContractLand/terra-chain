@@ -1,3 +1,3 @@
-# Terra Chain Spec
+# Gaia Chain Spec
 
-Chain specifications for Terra mainnet and testnets
+Chain specifications for Terra-Chain Gaia testnet
