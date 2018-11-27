@@ -38,7 +38,9 @@
     "eip161dTransition": "0x0",
     "eip211Transition": "0x0",
     "eip214Transition": "0x0",
-    "eip658Transition": "0x0"
+    "eip658Transition": "0x0",
+    "transactionPermissionContract": "0xE80dA5E6cA5Ee905169319e10272aaA7096bdc04",
+    "transactionPermissionContractTransition": "0x13C496"
   },
   "genesis": {
     "seal": {
